@@ -44,6 +44,8 @@ li a:hover:not(.active) {
   <li><a href="contacts.html">Contact</a></li>
   <li style="float:right"><a href="#about">About</a></li>
 </ul>
+<h1><b>WELCOME TO WEB PAGE</b></h1>
+<p>this is me kulkarni sumanth</p>
 
 </body>
 </html>
