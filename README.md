@@ -2,6 +2,7 @@
 <html>
 <head>
 <style>
+  body {background-image: url('bi.jpg');}
 ul {
   list-style-type: none;
   margin: 0;
