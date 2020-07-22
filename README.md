@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
   body {background-image: url('bi.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
-  background-size: cover;}
+   background-size: 100% 100%;}
 ul {
   list-style-type: none;
   margin: 0;
