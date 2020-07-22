@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  body {background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBcBy51Mc7K8IK7bOXE177NV9vQUpvVJAhNQ&usqp=CAU');
+  body {background-image: url('bi.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;}
